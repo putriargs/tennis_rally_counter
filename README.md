@@ -1,4 +1,4 @@
-Tennis Rally Counter
+# Tennis Rally Counter
 
 This repository contains code to detect tennis balls in images and count rallies.
 
