@@ -16,3 +16,7 @@ This repository contains code to detect tennis balls in images and count rallies
     ```bash
     python detect_ball.py
     ```
+4.  Run the video detection script:
+    ```bash
+    python detect_ball_video.py
+    ```
