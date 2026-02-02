@@ -28,3 +28,6 @@ runs/
 *.avi
 *.mov
 *.mkv
+*.pth
+dataset_img/
+dataset_vid/
