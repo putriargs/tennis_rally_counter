@@ -1,6 +1,6 @@
 # Tennis Rally Counter
 
-This repository contains code to detect tennis balls in images and count rallies.
+The goal is to detect tennis rally in images and videos.
 
 ## Features
 - Tennis Ball Detection (using YOLOv8)
